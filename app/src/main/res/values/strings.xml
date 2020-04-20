@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Khataa..</string>
+    <string name="arabic">عربى</string>
+    <string name="Hindi">हिन्दी</string>
+    <string name="Engish">Engish</string>
+    <string name="French">française</string>
+    <string name="Kannada">ಕನ್ನಡ</string>
+    <string name="Telugu">తెలుగు</string>
+    <string name="Bengali">
+বাংলা</string>
+    <string name="Oriya">ଦୌଡ଼ିଯାଇ</string>
+    <string name="Welcome">Welcome</string>
+    <string name="PHONE">PHONE</string>
+    <string name="PASSWORD">PASSWORD</string>
+    <string name="login">login</string>
+    <string name="Signup">Signup</string>
+    <string name="notFound">User Not Found</string>
+    <string name="inappropriate">Inappropriate Credentials</string>
+    <string name="Registered">Registered</string>
+    <string name="NAME">NAME</string>
+    <string name="SeeAllKhata">See All Transactions</string>
+    <string name="MakeNew">Make a new Transaction Note</string>
+    <string name="Record">Record</string>
+    <string name="sure">"Are you sure you want to open a Whatsapp chat with this person......."</string>
+    <string name="sure1">"Are You Sure You Want to Delete ...."</string>
+    <string name="amount">Amount</string>
+</resources>

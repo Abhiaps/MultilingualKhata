@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">ଖଟା ..</string>
+    <string name="arabic">عربى</string>
+    <string name="Hindi">हिन्दी</string>
+    <string name="Engish">Engish</string>
+    <string name="French">française</string>
+    <string name="Kannada">ಕನ್ನಡ</string>
+    <string name="Telugu">తెలుగు</string>
+    <string name="Bengali">
+বাংলা</string>
+    <string name="Oriya">ଦୌଡ଼ିଯାଇ</string>
+    <string name="Welcome">ସ୍ୱାଗତ</string>
+    <string name="PHONE">ଫୋନ୍ |</string>
+    <string name="PASSWORD">ପାସୱାର୍ଡ</string>
+    <string name="login">ଭିତରକୁ ଯାଉ</string>
+    <string name="Signup">ସାଇନ୍ ଅପ୍ କରନ୍ତୁ</string>
+    <string name="notFound">ଉପଯୋଗକର୍ତ୍ତା ମିଳିଲା ନାହିଁ |</string>
+    <string name="inappropriate">ଅନୁପଯୁକ୍ତ ପରିଚୟପତ୍ର |</string>
+    <string name="Registered">ପଞ୍ଜିକୃତ |</string>
+    <string name="NAME">ନାମ</string>
+    <string name="SeeAllKhata">ସମସ୍ତ କାରବାର ଦେଖନ୍ତୁ |</string>
+    <string name="MakeNew">ଏକ ନୂତନ କାରବାର ନୋଟ୍ ପ୍ରସ୍ତୁତ କରନ୍ତୁ |</string>
+    <string name="Record">ରେକର୍ଡ କରନ୍ତୁ |</string>
+    <string name="sure">"ଆପଣ ନିଶ୍ଚିତ କି ଆପଣ ଏହି ବ୍ୟକ୍ତିଙ୍କ ସହିତ ହ୍ ats ାଟସ୍ ଆପ୍ ଚାଟ୍ ଖୋଲିବାକୁ ଚାହୁଁଛନ୍ତି ......."</string>
+    <string name="sure1">"ଆପଣ ବିଲୋପ କରିବାକୁ ଚାହୁଁଛନ୍ତି କି? ...."</string>
+    <string name="amount">ପରିମାଣ</string>
+</resources>

@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">khata ..</string>
+    <string name="arabic">عربى</string>
+    <string name="Hindi">हिन्दी</string>
+    <string name="Engish">Engish</string>
+    <string name="French">française</string>
+    <string name="Kannada">ಕನ್ನಡ</string>
+    <string name="Telugu">తెలుగు</string>
+    <string name="Bengali">
+বাংলা</string>
+    <string name="Oriya">ଦୌଡ଼ିଯାଇ</string>
+    <string name="Welcome">Bienvenue</string>
+    <string name="PHONE">TÉLÉPHONE</string>
+    <string name="PASSWORD">mot de passe</string>
+    <string name="login">
+sidentifier</string>
+    <string name="Signup">sinscrire</string>
+    <string name="notFound">Utilisateur non trouvé</string>
+    <string name="inappropriate">Identifiants inappropriés</string>
+    <string name="Registered">Inscrite</string>
+    <string name="NAME">Nom</string>
+    <string name="SeeAllKhata">Voir toutes les transactions</string>
+    <string name="MakeNew">Créer une nouvelle note de transaction</string>
+    <string name="Record">Record</string>
+    <string name="sure">"Voulez-vous vraiment ouvrir un chat Whatsapp avec cette personne ......."</string>
+    <string name="sure1">"Etes-vous sûr que vous voulez supprimer ...."</string>
+    <string name="amount">Montante</string>
+</resources>

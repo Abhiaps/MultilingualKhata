@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">অ্যাকাউন্ট ..</string>
+    <string name="arabic">عربى</string>
+    <string name="Hindi">हिन्दी</string>
+    <string name="Engish">Engish</string>
+    <string name="French">française</string>
+    <string name="Kannada">ಕನ್ನಡ</string>
+    <string name="Telugu">తెలుగు</string>
+    <string name="Bengali">
+বাংলা</string>
+    <string name="Oriya">ଦୌଡ଼ିଯାଇ</string>
+    <string name="Welcome">স্বাগত</string>
+    <string name="PHONE">ফোন</string>
+    <string name="PASSWORD">পাসওয়ার্ড</string>
+    <string name="login">প্রবেশ করুন</string>
+    <string name="Signup">
+নিবন্ধন করুন</string>
+    <string name="notFound">ব্যবহারকারী খুঁজে পাওয়া যায় না</string>
+    <string name="inappropriate">অনুপযুক্ত শংসাপত্র</string>
+    <string name="Registered">নিবন্ধভুক্ত</string>
+    <string name="NAME">নাম</string>
+    <string name="SeeAllKhata">সমস্ত লেনদেন দেখুন</string>
+    <string name="MakeNew">একটি নতুন লেনদেন নোট করুন</string>
+    <string name="Record">নথি</string>
+    <string name="sure">"আপনি কি নিশ্চিত যে আপনি এই ব্যক্তির সাথে একটি Whatsapp চ্যাট খুলতে চান ......."</string>
+    <string name="sure1">"আপনি মুছে ফেলতে চান ...."</string>
+    <string name="amount">পরিমাণ</string>
+</resources>

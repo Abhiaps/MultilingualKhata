@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">ఖటా అనబడే వస్త్రాన్ని ..</string>
+    <string name="arabic">عربى</string>
+    <string name="Hindi">हिन्दी</string>
+    <string name="Engish">Engish</string>
+    <string name="French">française</string>
+    <string name="Kannada">ಕನ್ನಡ</string>
+    <string name="Telugu">తెలుగు</string>
+    <string name="Bengali">
+বাংলা</string>
+    <string name="Oriya">ଦୌଡ଼ିଯାଇ</string>
+    <string name="Welcome">స్వాగత</string>
+    <string name="PHONE">ఫోన్</string>
+    <string name="PASSWORD">పాస్వర్డ్</string>
+    <string name="login">
+ప్రవేశించండి</string>
+    <string name="Signup">చేరడం</string>
+    <string name="notFound">
+వినియోగదారుడు కనపడలేదు</string>
+    <string name="inappropriate">తగని ఆధారాలు</string>
+    <string name="Registered">నమోదైనది</string>
+    <string name="NAME">
+పేరు</string>
+    <string name="SeeAllKhata">అన్ని లావాదేవీలను చూడండి</string>
+    <string name="MakeNew">
+క్రొత్త లావాదేవీ గమనిక చేయండి</string>
+    <string name="Record">రికార్డు</string>
+    <string name="sure">"మీరు ఖచ్చితంగా ఈ వ్యక్తితో వాట్సాప్ చాట్ తెరవాలనుకుంటున్నారా ......."</string>
+    <string name="sure1">"మీరు తొలగించాలనుకుంటున్నారా ఖచ్చితంగా ...."</string>
+    <string name="amount">మొత్తం</string>
+</resources>

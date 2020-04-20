@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">खाता ...</string>
+    <string name="arabic">عربى</string>
+    <string name="Hindi">हिन्दी</string>
+    <string name="Engish">Engish</string>
+    <string name="French">française</string>
+    <string name="Kannada">ಕನ್ನಡ</string>
+    <string name="Telugu">తెలుగు</string>
+    <string name="Bengali">
+বাংলা</string>
+    <string name="Oriya">ଦୌଡ଼ିଯାଇ</string>
+    <string name="Welcome">
+स्वागत हे</string>
+    <string name="PHONE">फ़ोन</string>
+    <string name="PASSWORD">
+कुंजिका</string>
+    <string name="login">लॉग इन करें</string>
+    <string name="Signup">साइन अप करें</string>
+    <string name="notFound">उपयोगकर्ता नहीं मिला</string>
+    <string name="inappropriate">अनुचित क्रेडेंशियल्स</string>
+    <string name="Registered">दर्ज कराई</string>
+    <string name="NAME">नाम</string>
+    <string name="SeeAllKhata">सभी लेन-देन देखें</string>
+    <string name="MakeNew">एक नया लेन-देन नोट करें</string>
+    <string name="Record">अभिलेख</string>
+    <string name="sure">"क्या आप वाकई इस व्यक्ति के साथ एक व्हाट्सएप चैट खोलना चाहते हैं ......।"</string>
+    <string name="sure1">"क्या आप पक्का इसे हटाना चाहते हैं ...."</string>
+    <string name="amount">रकम</string>
+</resources>

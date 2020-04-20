@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">ಖಾಟಾ ..</string>
+    <string name="arabic">عربى</string>
+    <string name="Hindi">हिन्दी</string>
+    <string name="Engish">Engish</string>
+    <string name="French">française</string>
+    <string name="Kannada">ಕನ್ನಡ</string>
+    <string name="Telugu">తెలుగు</string>
+    <string name="Bengali">
+বাংলা</string>
+    <string name="Oriya">ଦୌଡ଼ିଯାଇ</string>
+    <string name="Welcome">ಸ್ವಾಗತ</string>
+    <string name="PHONE">ದೂರವಾಣಿ</string>
+    <string name="PASSWORD">
+ಗುಪ್ತಪದ</string>
+    <string name="login">
+ಲಾಗಿನ್</string>
+    <string name="Signup">ಸೈನ್ ಅಪ್</string>
+    <string name="notFound">ಬಳಕೆದಾರರು ಕಂಡುಬಂದಿಲ್ಲ</string>
+    <string name="inappropriate">ಸೂಕ್ತವಲ್ಲದ ರುಜುವಾತುಗಳು</string>
+    <string name="Registered">ನೋಂದಾಯಿಸಲಾಗಿದೆ</string>
+    <string name="NAME">
+ಹೆಸರು</string>
+    <string name="SeeAllKhata">ಎಲ್ಲಾ ವಹಿವಾಟುಗಳನ್ನು ನೋಡಿ</string>
+    <string name="MakeNew">ಹೊಸ ವಹಿವಾಟು ಟಿಪ್ಪಣಿ ಮಾಡಿ</string>
+    <string name="Record">ರೆಕಾರ್ಡ್ ಮಾಡಿ</string>
+    <string name="sure">"ಈ ವ್ಯಕ್ತಿಯೊಂದಿಗೆ ವಾಟ್ಸಾಪ್ ಚಾಟ್ ತೆರೆಯಲು ನೀವು ಖಚಿತವಾಗಿ ಬಯಸುವಿರಾ ......."</string>
+    <string name="sure1">"ನೀವು ಅಳಿಸಲು ಬಯಸುವಿರಾ? ...."</string>
+    <string name="amount">ಮೊತ್ತ</string>
+</resources>
